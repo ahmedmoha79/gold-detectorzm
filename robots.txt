@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /
+
+Sitemap: https://hayatiprospectors.com/sitemap.xml
+Host: https://hayatiprospectors.com

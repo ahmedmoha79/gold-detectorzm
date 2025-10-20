@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://hayatiprospectors.com/</loc>
+    <lastmod>2025-10-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.00</priority>
+    <image:image>
+      <image:loc>https://hayatiprospectors.com/logo.png</image:loc>
+      <image:caption>Hayati Prospectors - Authorized Garrett Dealer</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Main product listing + key product pages -->
+  <url>
+    <loc>https://hayatiprospectors.com/products/</loc>
+    <lastmod>2025-10-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.95</priority>
+  </url>
+
+  <url>
+    <loc>https://hayatiprospectors.com/products/garrett-axiom</loc>
+    <lastmod>2025-10-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.90</priority>
+    <image:image>
+      <image:loc>https://hayatiprospectors.com/axiom1.png</image:loc>
+      <image:loc>https://hayatiprospectors.com/axiom2.png</image:loc>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://hayatiprospectors.com/products/garrett-goldmaster</loc>
+    <lastmod>2025-10-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.90</priority>
+    <image:image>
+      <image:loc>https://hayatiprospectors.com/goldmaster1.png</image:loc>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://hayatiprospectors.com/products/vx500-pinpointer</loc>
+    <lastmod>2025-10-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.88</priority>
+    <image:image>
+      <image:loc>https://hayatiprospectors.com/vx5001.png</image:loc>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://hayatiprospectors.com/products/garrett-adroit</loc>
+    <lastmod>2025-10-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.88</priority>
+    <image:image>
+      <image:loc>https://hayatiprospectors.com/adroit.png</image:loc>
+    </image:image>
+  </url>
+
+  <!-- Accessories -->
+  <url>
+    <loc>https://hayatiprospectors.com/accessories/garrett-deluxe-gold-pan-kit</loc>
+    <lastmod>2025-10-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+    <image:image>
+      <image:loc>https://hayatiprospectors.com/goldpan1.png</image:loc>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://hayatiprospectors.com/accessories/garrett-nugget-scoop</loc>
+    <lastmod>2025-10-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.70</priority>
+    <image:image>
+      <image:loc>https://hayatiprospectors.com/scoop1.png</image:loc>
+    </image:image>
+  </url>
+
+  <!-- Coils -->
+  <url>
+    <loc>https://hayatiprospectors.com/coils/</loc>
+    <lastmod>2025-10-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- Info pages -->
+  <url>
+    <loc>https://hayatiprospectors.com/about</loc>
+    <lastmod>2025-10-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.60</priority>
+  </url>
+
+  <url>
+    <loc>https://hayatiprospectors.com/contact</loc>
+    <lastmod>2025-10-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.60</priority>
+  </url>
+
+  <!-- Blog and resources (critical for ranking) -->
+  <url>
+    <loc>https://hayatiprospectors.com/blog/</loc>
+    <lastmod>2025-10-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Example cornerstone posts you must create and keep updated -->
+  <url>
+    <loc>https://hayatiprospectors.com/blog/how-to-find-gold-in-zambia</loc>
+    <lastmod>2025-10-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.92</priority>
+  </url>
+
+  <url>
+    <loc>https://hayatiprospectors.com/blog/best-metal-detectors-for-gold</loc>
+    <lastmod>2025-10-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.92</priority>
+  </url>
+
+  <!-- Sitemap /robots for search engines -->
+  <url>
+    <loc>https://hayatiprospectors.com/sitemap.xml</loc>
+    <lastmod>2025-10-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.05</priority>
+  </url>
+
+</urlset>
