@@ -1,6 +1,29 @@
+# robots.txt for https://golddetectorinzambia.com
+# Generated 2025-10-20 — keep this file at site root
+
 User-agent: *
-Disallow: /wp-admin/
+# Allow main content
 Allow: /
 
+# Disallow sensitive or staging areas
+Disallow: /wp-admin/
+Disallow: /wp-login.php
+Disallow: /cgi-bin/
+Disallow: /private/
+Disallow: /cart/
+Disallow: /checkout/
+Disallow: /account/
+Disallow: /*?utm_source=
+Disallow: /*?sessionid=
+
+# Sitemap location (required and extremely helpful)
 Sitemap: https://golddetectorinzambia.com/sitemap.xml
-Host: https://hayatiprospectors.com
+
+# Hints for other crawlers (non-standard)
+User-agent: Bingbot
+Crawl-delay: 5
+
+User-agent: Yandex
+Crawl-delay: 10
+
+# End of file — update as needed
